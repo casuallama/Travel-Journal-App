@@ -1,4 +1,4 @@
-# Journeyscapes Journaling App
+# Travel Journaling App
 
 ## Description
 This project is a travel journaling app that allows users to record travel memories by creating and storing journal entries on their local computer.
